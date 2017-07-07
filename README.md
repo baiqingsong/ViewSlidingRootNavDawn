@@ -54,6 +54,9 @@ withMenuLayout 这个添加menu的Layout
 其中添加Layout后，可以直接通过findViewById获取到控件，进行事件操作
 
 
+
+注：暂时没找到向右侧滑的时候页面不缩小的方法
+
 ## 参考地址
 
 [https://github.com/yarolegovich/SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav "参考地址")
