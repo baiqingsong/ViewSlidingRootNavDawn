@@ -13,6 +13,7 @@ dependencies {
 }
 ```
 
+![效果截图](app/src/main/assets/img_screen.jpg "效果截图")
 
 ## 使用
 ```
